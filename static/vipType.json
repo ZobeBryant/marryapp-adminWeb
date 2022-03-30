@@ -1,0 +1,29 @@
+{
+    "list": [
+      {
+        "vipType": "0",
+        "title":"0",
+        "duration":"1",
+        "price": "6"
+      },
+      {
+        "vipType": "0",
+        "title":"1",
+        "duration":"30",
+        "price": "12"
+      },
+      {
+        "vipType": "0",
+        "title":"2",
+        "duration":"91",
+        "price": "25"
+      },
+      {
+        "vipType": "1",
+        "title":"3",
+        "duration":"54",
+        "price": "32"
+      }
+    ]
+}
+

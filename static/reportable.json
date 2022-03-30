@@ -1,0 +1,34 @@
+{
+    "list": [
+      {
+        "date": "1997-11-11",
+        "reportName":"魏晨",
+        "reportId":"01",
+        "beReportName":"郑爽",
+        "beReportId":"02",
+        "reportType":"广告、营销",
+        "reportReason":"这里是测试举报",
+        "approach":"冻结7日"
+      },
+      {
+        "date": "1998-11-11",
+        "reportName":"唐嫣",
+        "reportId":"03",
+        "beReportName":"胡歌",
+        "beReportId":"04",
+        "reportType":"色情、低俗",
+        "reportReason":"哈哈哈哈哈哈哈",
+        "approach":"冻结30日"
+      },
+      {
+        "date": "1999-11-11",
+        "reportName":"唐嫣",
+        "reportId":"05",
+        "beReportName":"胡歌",
+        "beReportId":"05",
+        "reportType":"恶意骚扰",
+        "reportReason":"嘿诶嘿嘿嘿",
+        "approach":"永久冻结"
+      }
+    ]
+}

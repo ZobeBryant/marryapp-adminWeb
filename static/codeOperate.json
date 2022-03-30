@@ -1,0 +1,43 @@
+{
+    "list": [
+      {
+        "rank": "1",
+        "code":"123456",
+        "password":"123",
+        "registerNum": "1",
+        "certificateNum":"1",
+        "dayCard":"1",
+        "monthCard":"1",
+        "seasonCard":"1",
+        "yearCard":"1",
+        "sum":"42",
+        "flag":"正常"
+      },
+      {
+        "rank": "2",
+        "code":"123456",
+        "password":"123",
+        "registerNum": "12",
+        "certificateNum":"11",
+        "dayCard":"25",
+        "monthCard":"23",
+        "seasonCard":"12",
+        "yearCard":"32",
+        "sum":"42",
+        "flag":"正常"
+      },
+      {
+        "rank": "3",
+        "code":"123456",
+        "password":"123",
+        "registerNum": "12",
+        "certificateNum":"11",
+        "dayCard":"25",
+        "monthCard":"23",
+        "seasonCard":"12",
+        "yearCard":"32",
+        "sum":"42",
+        "flag":"正常"
+      }
+    ]
+}
